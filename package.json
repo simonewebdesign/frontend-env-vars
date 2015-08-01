@@ -1,0 +1,27 @@
+{
+  "name": "frontend-env-vars",
+  "version": "1.0.0",
+  "description": "Environment variables in the frontend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonewebdesign/frontend-env-vars.git"
+  },
+  "keywords": [
+    "frontend",
+    "env",
+    "vars",
+    "environment",
+    "variable",
+    "12factor"
+  ],
+  "author": "Simone Vittori <hello+npm@simonewebdesign.it>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonewebdesign/frontend-env-vars/issues"
+  },
+  "homepage": "https://github.com/simonewebdesign/frontend-env-vars#readme"
+}
