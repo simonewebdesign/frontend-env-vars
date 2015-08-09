@@ -1,2 +1,1 @@
-# frontend-env-vars
-Environment variables in the frontend.
+# Environment Variables in the Browser
